@@ -1,0 +1,54 @@
+﻿@model IEnumerable<HackathonDB.Models.Customer>
+
+@{
+    ViewData["Title"] = "Участники хакатона";
+}
+
+<h2>Участники хакатона </h2>
+<br>
+
+<table class="table table-bordered">
+
+    <tr>
+        <th>
+            Имя
+        </th>
+        <th>
+            Эл.почта
+        </th>
+        <th>
+            Телефон
+        </th>
+        <th>
+            Вуз
+        </th>     
+        <th>Ред.  
+        </th>
+        <th>Удал.
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    	
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.College)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id"><span class="glyphicon glyphicon-edit" aria-hidden="true"></span></a></td>
+                <td><a asp-action="Delete" asp-route-id="@item.Id" onclick="return confirm('Удалить?');"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></a>
+                </td>
+            
+        </tr>
+    }
+</table>

@@ -1,0 +1,22 @@
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.deps.json
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.runtimeconfig.json
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.runtimeconfig.dev.json
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.dll
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.csprojResolveAssemblyReference.cache
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.AssemblyInfo.cs
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.pdb
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.dll
+C:\Users\ПК\source\repos\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.pdb
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.deps.json
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.runtimeconfig.json
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.runtimeconfig.dev.json
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.dll
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\bin\Debug\netcoreapp2.0\HackathonDB.pdb
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.csprojResolveAssemblyReference.cache
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.dll
+C:\Users\ПК\Desktop\Тестовое задание (Васильев Р.А.)\HackathonDB\HackathonDB\obj\Debug\netcoreapp2.0\HackathonDB.pdb
